@@ -7,7 +7,7 @@ Para tanto, pode-se usar:
   ex: C:\Users\nadine.pereira>C: cd \Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06
   obs: a sigla cd significa "change directory"
 - para criar o arquivo .class, digite no terminal: javac Main.java, onde o arquivo Main.java é a 
-classe a ser executada;
+classe a ser criada e executada;
   ex: C:\Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06> javac Argumentos.java
 - para executar o código, digite: java Main
   ex: C:\Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06> java Argumentos
