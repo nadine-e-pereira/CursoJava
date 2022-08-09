@@ -1,0 +1,36 @@
+//1. Erro de Sintaxe
+//2. Erro de Smântica
+//3. Erro de Tempo de Execução
+
+class Erro01{
+	public static void main (String [] args){
+		System.out.println("HelloWord)
+
+	/*Erro01.java:3: error: unclosed string literal
+  *      System.out.println("HelloWord)
+	*/
+
+	}
+}
+
+class Erro02{
+	public static void main (String [] args){
+		int count;
+		System.out.println("Você digitou" + count);
+    
+    /*Erro02.java:4: error: variable count might not have been initialized
+    *            System.out.println("Você digitou" + count);
+    */
+    
+	}
+}
+
+class Erro03{
+	public static void main (String [] args){
+		System.out.println(1/0);
+
+	/*Exception in thread "main" java.lang.ArithmeticException: / by zero
+	* at Erro03.main(Erro03.java:3)
+        */
+	}
+}
