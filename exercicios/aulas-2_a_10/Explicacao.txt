@@ -1,0 +1,13 @@
+O Java possui uma máquina virtual (JVM) que comunica-se direto com o Kernel do sistema operacional. 
+Para executar um código sem uma IDE, é necessário ter o Java JDK e JRE instalados na máquina.
+Para todo arquivo .java criado, é necessário criar um arquivo .class para ser executado no terminal. 
+Para tanto, pode-se usar:
+- no windows: cmd + x -> "Executar" + cmd, para abrir o terminal;
+- com o terminal aberto, insira o endereço e acesse diretório onde o arquivo .java está localizado;
+  ex: C:\Users\nadine.pereira>C: cd \Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06
+  obs: a sigla cd significa "change directory"
+- para criar o arquivo .class, digite no terminal: javac Main.java, onde o arquivo Main.java é a 
+classe a ser executada;
+  ex: C:\Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06> javac Argumentos.java
+- para executar o código, digite: java Main
+  ex: C:\Users\nadine.pereira\Documents\Cursos\curso-java-basico\aula-06> java Argumentos
