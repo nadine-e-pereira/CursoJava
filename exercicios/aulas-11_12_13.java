@@ -211,7 +211,6 @@ public class Exercicio10 {
 
 	}
 }
-```
 
 /* 10. Faça um Programa que peça a temperatura em graus Celsius, 
 * transforme e mostre em graus Farenheit.
@@ -401,7 +400,7 @@ public class Exercicio15 {
 
 import java.util.Scanner;
 
-public class Exercicio16e17 {
+public class Exercicio16 {
 	
 	public static void main (String[] args) {
 		
@@ -443,7 +442,7 @@ public class Exercicio16e17 {
 
 import java.util.Scanner;
 
-public class Exercicio16e17 {
+public class Exercicio17 {
 	
 	public static void main (String[] args) {
 		
@@ -497,7 +496,7 @@ public class Exercicio16e17 {
 
 import java.util.Scanner;
 
-public class Exercicio14 {
+public class Exercicio18 {
 	
 	public static void main (String [] args) {
 		
@@ -515,4 +514,3 @@ public class Exercicio14 {
 		
 	}
 }
-```
