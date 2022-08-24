@@ -1027,7 +1027,7 @@ public class Exercicio28 {
 		Scanner input = new Scanner(System.in);
 		
 			System.out.println("Entre com o tipo da carne: ");
-			System.out.println("1 - Filé Dplo ");
+			System.out.println("1 - Filé Duplo ");
 			System.out.println("2 - Alcatra ");
 			System.out.println("3 - Picanha ");
 			int tipo = input.nextInt();
